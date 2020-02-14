@@ -1,0 +1,6 @@
+class fijos{
+  
+ void crear(){
+ 
+ }
+}
